@@ -9,5 +9,6 @@
 - degree: High School Diploma
   uni: Los Gatos High
   year: 2019
-  award: Spanish Honors Award, Science Olympiad Regional Medalist
+  awards:
+    - award: Spanish Honors Award, Science Olympiad Regional Medalist
   summary:
