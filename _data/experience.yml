@@ -1,19 +1,26 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Data Analyst Researcher
+  position: Cal Poly Mechanical Engineering Department
+  duration: Dec 2020 &mdash; Present | San Luis Obispo, CA
+  summary: Currenly co-writing two research papers with Dr. Jennifer Mott focused on the examining the relationship between thermal comfort and academic success and developing low cost solutions to make buildings more comfortable.	#<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Data Science Intern
+  position: Cisco | San Jose, CA
+  duration:  Jun 2020 &mdash; Sept 2020
+  summary: I assisted a data science team by using logistic regression and time series analytics to help protect network security.
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Instructional Student Assistant
+  position: Cal Poly Statistics Department | San Luis Obispo, CA
+  duration:   Sep 2020  &mdash; Present
+  summary: I graded homework assignments, provided course feedback, and answered student questions for an intro Stats course.
+
+- company: Database Intern
+  position: Cal Poly Statistics Department | San Luis Obispo, CA
+  duration:   Sep 2020  &mdash; Present
+  summary: I graded homework assignments, provided course feedback, and answered student questions for an intro Stats course.
+
+
