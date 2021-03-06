@@ -3,11 +3,11 @@
   uni: Cal Poly, SLO
   year: expected-June 2023
   awards:
-    - award: Deans List
+    - award: Deans List, Science Olympiad Regional Gold Medalist
   summary: If you had any meaningful roles at college, feel free to write about them here
 
-# degree:
-  uni: Los Gatos High School
-  year: 2019
-  award: Science Olympiad Regional Gold Medalist, Spanish Honors Award
-  #summary: You can choose to have either a single or multiple awards
+- degree: Los Gatos High School
+  uni:
+  year: 2004
+  award: Most likely to succeed
+  summary: You can choose to have either a single or multiple awards
